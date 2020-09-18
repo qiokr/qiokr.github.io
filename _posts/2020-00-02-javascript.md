@@ -2,7 +2,7 @@
 layout: post
 title: "The <strong>Internet</strong>"
 subtitle: "A giant <strong>network</strong> of computers"
-section: web
+section: link
 ---
 
 The Internet is not the same as the Web. The Internet is bigger, older, and more varied.
